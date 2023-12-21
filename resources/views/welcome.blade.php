@@ -1,0 +1,2 @@
+@livewire('company-form')
+
